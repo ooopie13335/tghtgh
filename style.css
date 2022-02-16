@@ -1,0 +1,60 @@
+body{
+    font-family: 'Heebo', sans-serif;
+}
+
+img{
+    border-radius: 25px;
+    width: 200px;
+}
+
+
+
+
+h1{
+text-align: center;
+
+
+}
+
+
+
+.avatar{
+    background-color: gray;
+    height: 1560px;
+    border-radius: 28px;
+    text-align: center;
+
+}
+
+.poka{
+    background-color: white;
+    border-radius: 25px;
+    height: 300px;
+}
+
+.privet{
+background-color: white;
+border-radius: 25px;
+height: 150px;
+}
+
+
+.ang{
+
+    background-color: white;
+    border-radius: 25px;
+    height: 100px;
+}
+
+.pop{
+    background-color: white;
+    border-radius: 25px;
+    height: 230px;
+
+
+}
+
+
+
+
+
